@@ -6,16 +6,18 @@
   "About": {
     "paragraph": "Aureateq is a newly established IT consulting firm that specializes in innovative digital transformations and cutting-edge technology solutions. With a team of seasoned experts, we offer personalized consulting services designed to propel businesses into the future. Our approach combines deep industry knowledge with the latest technological advancements to optimize operations, enhance efficiency, and drive growth. Aureateq is actively seeking to partner with companies that aim to navigate the intricacies of the digital era with assurance and adeptness.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Rich Industry Experience",
+      "Cost-Effective Solutions",
+      "Quality Work Assurance",
+      "Flexible Scalability Options",
+      "Diverse Skilled Team"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Proven Project Success",
+      "Always Available Support",
+      "Continuous Innovative Solutions",
+      "Tailored Client Approaches",
+      "Security and Compliance Focus"
     ]
   },
   "Gallery": [
@@ -132,23 +134,18 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Avinab Rajbhandary",
+      "job": "Founder"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Pranab Rajbhandary",
+      "job": "Founder"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Pragyan Shrestha",
+      "job": "Founder"
     }
   ],
   "Contact": {

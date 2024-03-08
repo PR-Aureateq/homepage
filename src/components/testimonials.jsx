@@ -1,6 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 
 export const Testimonials = (props) => {
+  const [visible] = React.useState(false);
+  if(!visible) return null;
+
   return (
     <div id="testimonials">
       <div className="container">
